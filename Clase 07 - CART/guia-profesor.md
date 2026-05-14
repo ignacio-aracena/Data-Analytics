@@ -160,14 +160,14 @@ Cel. 23: `plot_tree` (14×7, fontsize 10). Con `max_depth=3` hay ~8 hojas → ca
 **Para decir cuando aparece el árbol:**
 - *"Lo que se ve en pantalla resume por qué CART le gana a otros modelos: la salida no es una probabilidad opaca, es un conjunto de reglas explícitas."*
 - Dedicar 2-3 minutos a recorrer una hoja en voz alta:
-  - *"Si los días sin entrar > X y las horas vistas < Y → Z% probabilidad de churn → llamar mañana."*
-- El primer corte casi seguro va a ser `dias_desde_ultima_sesion` — recencia es el predictor #1.
+  - *"Si el plan es estandar_con_anuncios Y los días sin entrar > X → Z% probabilidad de churn → llamar mañana."*
+- **Importante (verificado contra el modelo entrenado):** el primer corte es sobre `plan_estandar_con_anuncios` (importancia 0.51, el predictor #1). La **recencia** queda como segundo predictor (importancia 0.21). Antigüedad y horas vistas completan el ranking. Los alumnos a veces esperan que recencia sea la #1 — sí es muy importante, pero el plan le gana.
 
 **Trampa:** los `value=[X, Y]` están **ponderados por `class_weight`**, no son observaciones crudas. Al sumarlos no coinciden con `samples`. Aclararlo si alguien pregunta.
 
 ### 24 · Lectura del árbol (md)
 
-Recencia es predictor #1. Hojas oscuras → segmentos prioritarios para Retention.
+**Plan es predictor #1** (`plan_estandar_con_anuncios`, importancia 0.51). Recencia segundo (0.21). Hojas oscuras → segmentos prioritarios para Retention.
 
 ### 25-26 · Importancia de variables
 
@@ -216,7 +216,7 @@ Mismo formato visual, pero ahora cada hoja contiene un **valor numérico** = hor
 
 **Para decir:**
 - Cada hoja es un **segmento de consumo**. Insumo directo para LTV por segmento y para que Contenido sepa cuántas horas-vista empujar por cohorte.
-- **Conexión con el árbol de clasificación:** las variables que cortan son las mismas (recencia + consumo previo). Recencia y horas predicen tanto la probabilidad de churn como las horas futuras → coherencia conceptual.
+- **Diferencia con el árbol de clasificación (verificado):** el árbol de regresión usa casi exclusivamente `horas_vistas_mes_pasado` (importancia 0.99) — es básicamente "predigo las horas del próximo mes a partir de las del mes pasado" (auto-correlación temporal). El árbol de clasificación, en cambio, distribuye importancia entre plan, recencia, antigüedad y horas. **Esto NO es un error pedagógico — es información para vos.** Si un alumno te pregunta por la diferencia, la respuesta es: el target del regresor (horas futuras) tiene un predictor muy obvio (horas pasadas); el target del clasificador (churn) requiere combinar varias señales débiles.
 
 ### 34 · Cierre del bloque regresión
 
