@@ -210,6 +210,10 @@ R² train: 0.689 | R² test: 0.687
 
 **Pregunta probable:** *"¿Y si subimos `max_depth`?"* — R² train sube, R² test queda igual o cae. A partir de `depth=5` el gap se abre. Lo validamos antes de la clase.
 
+**Por qué este R² es tan bueno (verificado):** `horas_vistas_mes_pasado` correlaciona 0.83 con `horas_proximo_mes` — los usuarios que ven mucho un mes tienden a ver mucho el siguiente. Es auto-correlación temporal del comportamiento. El árbol de regresión aprovecha esto y usa esa feature al 99% de importancia. Si un alumno pregunta por qué el regresor anda tan bien comparado con el clasificador, la respuesta es: el target tiene un predictor casi obvio. El clasificador, en cambio, no tiene un solo predictor dominante — tiene que combinar señales débiles (plan, recencia, antigüedad, horas).
+
+**Otra métrica útil para tener a mano:** **MAE = 7.68 horas** (verificado). Es el error absoluto medio — más bajo que RMSE (11.21) porque RMSE penaliza errores grandes. Si un alumno pregunta *"¿hay otras métricas además de RMSE/R²?"*, mencionar MAE. Para calcularlo: `from sklearn.metrics import mean_absolute_error` + `mean_absolute_error(yreg_test, yreg_pred)`.
+
 ### 31-33 · Árbol de regresión
 
 Mismo formato visual, pero ahora cada hoja contiene un **valor numérico** = horas esperadas para esa cohorte.
@@ -248,6 +252,16 @@ Responde explícitamente las dos preguntas del header, da la acción operativa p
 **"¿Cómo elegir `max_depth`?"** — GridSearchCV (viene en clases siguientes). Heurística: 3-5 niveles para problemas con 10-20 features y miles de filas.
 
 **"¿Y si el dataset cambia?"** — CART es estático. Cada mes nuevo → reentrenar.
+
+**"¿Cómo uso el modelo con un suscriptor nuevo?"** — Sacamos la sección de "Predicción operativa" del notebook pero conviene tener la respuesta. Tres pasos:
+
+1. Preprocesar el nuevo caso igual que el train: `pd.get_dummies(...)` + `reindex(columns=features, fill_value=0)` para alinear columnas.
+2. `arbol_clf.predict(X_nuevo)` → devuelve `0` o `1` (predicción de clase).
+3. `arbol_clf.predict_proba(X_nuevo)` → devuelve `[prob_se_queda, prob_churn]`. Para Retention lo que sirve es `prob_churn = arbol_clf.predict_proba(X_nuevo)[:, 1]`.
+
+Para regresión es directo: `arbol_reg.predict(X_nuevo)` devuelve las horas predichas.
+
+Los thresholds operativos ("¿prob > 0.5 contactar urgente?") los pone el negocio, no el modelo.
 
 ---
 
