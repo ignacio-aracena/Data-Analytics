@@ -299,33 +299,23 @@ R² en training sube; R² en test probablemente se mantiene o cae. Es el patrón
 
 ---
 
-## Celdas 24-26 — Predicción operativa sobre 5 nuevos suscriptores
+## Celda 24 — Cierre
 
-**Qué se ve:**
+**Qué se ve:** tabla resumen comparando los dos modelos y tres ideas finales para llevarse.
 
-- Cel. 25: tabla con cinco perfiles representativos:
-  1. **Nuevo + plan barato + recencia alta** → candidato fuerte a churn.
-  2. **Veterano + premium + alto consumo + sesión reciente** → cliente saludable.
-  3. **Medio + estándar + consumo medio** → cliente promedio.
-  4. **Nuevo + básico + recencia alta + dos cambios de plan** → riesgo.
-  5. **Veterano + premium + consumo muy alto + sesión actual** → cliente top.
+**Cómo leerlo:** después de las métricas de ambos modelos y de ver los dos árboles, el cierre sintetiza qué se hizo y por qué.
 
-- Cel. 26: la misma tabla con tres columnas adicionales: `prob_churn`, `horas_proximo_mes`, `accion_retention`. La acción se determina con reglas simples:
-  - Probabilidad ≥ 0.50 → "Contactar urgente"
-  - 0.25 ≤ probabilidad < 0.50 → "Mandar promo"
-  - Probabilidad < 0.25 → "No tocar"
+**Para decir al cerrar:**
 
-**Cómo leerlo:** este es el output que se entrega al negocio. Convierte probabilidades en **acciones operativas concretas**.
+1. **Recapitular la tabla.** Misma técnica aplicada a dos problemas distintos (clasificación + regresión). Es la idea central de la clase.
+2. **Interpretabilidad como ventaja competitiva.** Cada predicción de un árbol viene con la secuencia de reglas que la generó. Es lo que el área de negocio valora especialmente cuando pregunta "¿por qué este usuario?".
+3. **Enlace con la próxima clase.** Un árbol individual tiende al overfitting. La solución industrial es combinar muchos árboles: Random Forest y Gradient Boosting.
 
-**Para decir en clase — punto de cierre del modelo:**
-
-- *"Los modelos no le aportan valor al negocio hasta que se traducen en acción. Una probabilidad por sí sola no es accionable."*
-- Los thresholds (0.50, 0.25) son decisiones de negocio, no del modelo. Modificarlos cambia el volumen de usuarios contactados — son palancas operativas.
-- En producción, esto se implementa como un proceso diario que corre sobre toda la base de usuarios y entrega un archivo al equipo de Retention. **Así se opera ML en negocios.**
+Acá termina el bloque de clase. Todo lo que sigue (celdas 25-39) es material de **"Para casa"**.
 
 ---
 
-## Celdas 27-41 — "Para casa"
+## Celdas 25-39 — "Para casa"
 
 Bloque optativo (que entra al parcial). Se muestra por arriba, **sin profundizar en clase**.
 
@@ -343,18 +333,6 @@ Contenido:
 - **Outliers:** cuando los alumnos vean el boxplot de horas con puntos sueltos arriba, el reflejo de la Clase 04 va a ser "removerlos". Aclarar: **CART es robusto a outliers** porque corta por umbrales — un usuario que vio 95 o 200 horas cae del mismo lado del corte. No se remueven. Esto es lo que diferencia a CART de regresión lineal (Clase 04) y de KNN (Clase 05), ambos sensibles a outliers.
 - **`export_text`:** si el negocio pide las reglas "para copiar en un documento", esta es la herramienta. Misma información del árbol visual en formato texto plano.
 - **Importancia de variables:** confirma cuantitativamente lo que el árbol mostró visualmente. Más concisa para presentaciones ejecutivas.
-
----
-
-## Celda 42 — Cierre
-
-**Qué se ve:** tabla resumen y tres ideas finales.
-
-**Para decir al cerrar:**
-
-1. **Recapitular la tabla.** Misma técnica aplicada a dos problemas distintos.
-2. **Interpretabilidad como ventaja competitiva.** Cada predicción de un árbol viene con la secuencia de reglas que la generó. Es lo que el área de negocio valora especialmente.
-3. **Enlace con la próxima clase.** Un árbol individual tiene tendencia al overfitting. La solución industrial es combinar muchos árboles: Random Forest y Gradient Boosting.
 
 ---
 
@@ -394,12 +372,11 @@ CART aprende del dataset que se le entrega. Cada nuevo mes requiere un reentrena
 | Bloque | Celdas | Tiempo |
 |---|---|---|
 | Header + imports + carga + tabla variables | 0-5 | 2 min |
-| EDA mínimo: balance del target → justificación de `class_weight` | 6-8 | 2 min |
+| EDA mínimo: balance del target → justificación de `class_weight` | 6-8 | 3 min |
 | Data prep: one-hot + split estratificado | 9-11 | 2 min |
 | **Parte A: clasificación** — fit + métricas + matriz + árbol + lectura | 12-17 | **6 min** |
 | **Parte B: regresión** — fit + métricas + árbol + lectura | 18-23 | **5 min** |
-| Predicción operativa sobre 5 nuevos suscriptores | 24-26 | 2 min |
-| Cierre + repaso de "Para casa" | 27-42 | 1 min |
+| Cierre + repaso rápido de "Para casa" | 24-39 | 2 min |
 | **Total** | | **20 min** |
 
 Si la clase corre corta, "Para casa" se muestra solo de nombre (30 segundos). Si corre larga, la matriz de confusión visual (celda 15) puede saltarse — el reporte numérico (celda 14) ya cubre la información.
