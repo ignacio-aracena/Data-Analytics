@@ -17,6 +17,7 @@ Las tutoriales aplican la teoría de las magistrales (Pablo Sciolla) a **casos r
 | **Clase 05** | Regresión Logística + KNN | **Naranja X** — aprobación de crédito personal | `solicitudes_naranjax.csv` |
 | **Clase 06** | Métricas técnicas y económicas | **People Analytics** — evaluación de modelos pre-parcial | `candidatos_ofertas.csv` |
 | **Clase 07** | CART (árboles de clasificación y regresión) | **Netflix** — churn + horas de visualización | `netflix_suscriptores.csv` |
+| **Clase 08** | Random Forest (Bagging, GridSearchCV, feature importance) | **Mercado Pago** — detección de fraude transaccional | `transacciones_mercadopago.csv` |
 
 ---
 
