@@ -1,0 +1,411 @@
+cancion,artista,energia,bailabilidad,acustica,duracion_seg,popularidad
+Motor en Vivo,Reina Mota,60.0,42.0,37.0,351.0,71.0
+Neón Eterno,Kraft B,90.0,61.0,5.0,375.0,30.0
+Ritmo 2.0,Los del Sur,82.0,85.0,14.0,209.0,75.0
+Fuego Azul,Los del Sur,76.0,95.0,0.0,197.0,74.0
+Salto Azul,Kraft B,92.0,53.0,4.0,329.0,35.0
+Vector Eterno,Nébula,95.0,53.0,4.0,350.0,50.0
+Circuito Salvaje,Helix,91.0,66.0,4.0,370.0,31.0
+Vértigo Infinito,Sierra,68.0,40.0,31.0,270.0,80.0
+Niebla Eterno,Valen Acústico,15.0,40.0,84.0,229.0,57.0
+Acero Azul,Banda Norte,66.0,43.0,28.0,310.0,68.0
+Salto de Noche,Kraft B,94.0,60.0,0.0,375.0,26.0
+Ruta Eterno,Sierra,76.0,36.0,17.0,242.0,50.0
+Motor Azul,Banda Norte,63.0,31.0,18.0,257.0,50.0
+Circuito Infinito,Andrómeda Club,93.0,51.0,0.0,331.0,34.0
+Pulso Total,Helix,89.0,57.0,2.0,295.0,54.0
+Fiesta 2.0,DJ Pampa,84.0,97.0,15.0,192.0,69.0
+Vértigo Salvaje,Banda Norte,77.0,47.0,38.0,276.0,60.0
+Fuego 2.0,Kiara B,83.0,86.0,9.0,187.0,77.0
+Ruta de Noche,Sierra,71.0,48.0,34.0,283.0,47.0
+Vértigo en Vivo,Banda Norte,66.0,40.0,26.0,301.0,51.0
+Café Azul,El Faro,28.0,35.0,76.0,231.0,50.0
+Baila Azul,Mara Flow,85.0,88.0,8.0,185.0,78.0
+Verano Eterno,DJ Pampa,87.0,97.0,4.0,181.0,72.0
+Asfalto Total,Los Voltio,61.0,36.0,36.0,273.0,57.0
+Motor 2.0,Banda Norte,61.0,32.0,32.0,303.0,56.0
+Hogar 2.0,Hermanos Paz,27.0,38.0,86.0,221.0,74.0
+Pulso Eterno,Helix,93.0,50.0,5.0,359.0,37.0
+Fiesta Azul,La Conexión,84.0,84.0,10.0,205.0,84.0
+Fase Eterno,Andrómeda Club,96.0,52.0,2.0,321.0,41.0
+Fuego Azul,Mara Flow,71.0,91.0,8.0,186.0,71.0
+Fiesta Salvaje,La Conexión,76.0,94.0,5.0,183.0,78.0
+Despacio de Noche,Valen Acústico,19.0,49.0,73.0,204.0,40.0
+Neón 2.0,Nébula,95.0,46.0,1.0,358.0,44.0
+Prisma Total,Kraft B,97.0,50.0,4.0,374.0,58.0
+Verano Salvaje,Kiara B,84.0,86.0,8.0,192.0,78.0
+Noche 2.0,Kiara B,84.0,86.0,16.0,182.0,79.0
+Hogar Azul,Clara Sol,15.0,40.0,89.0,240.0,54.0
+Cromo en Vivo,Karma Eléctrico,64.0,40.0,29.0,262.0,59.0
+Fuego Total,La Conexión,78.0,92.0,3.0,174.0,72.0
+Despacio de Noche,Valen Acústico,33.0,34.0,93.0,240.0,54.0
+Café Infinito,Clara Sol,26.0,34.0,81.0,219.0,58.0
+Domingo en Vivo,Río Manso,28.0,38.0,78.0,235.0,41.0
+Motor Azul,Los Voltio,67.0,44.0,8.0,258.0,59.0
+Raíz Total,El Faro,11.0,39.0,87.0,199.0,45.0
+Madera Salvaje,El Faro,19.0,37.0,82.0,223.0,71.0
+Niebla Infinito,Río Manso,31.0,33.0,87.0,222.0,63.0
+Fiesta de Noche,Los del Sur,83.0,85.0,16.0,190.0,70.0
+Hogar en Vivo,Clara Sol,21.0,23.0,86.0,212.0,71.0
+Hogar Infinito,Río Manso,28.0,30.0,82.0,254.0,64.0
+Circuito Eterno,Helix,91.0,53.0,5.0,358.0,44.0
+Ruta Total,Karma Eléctrico,73.0,40.0,35.0,252.0,92.0
+Motor Total,Karma Eléctrico,63.0,42.0,28.0,339.0,44.0
+Calor Eterno,Kiara B,84.0,90.0,5.0,193.0,71.0
+Fiesta de Noche,Los del Sur,84.0,90.0,11.0,166.0,80.0
+Luna Azul,Kiara B,80.0,91.0,10.0,194.0,76.0
+Noche Eterno,Kiara B,78.0,92.0,8.0,194.0,66.0
+Vector Salvaje,Nébula,93.0,54.0,5.0,377.0,43.0
+Madera Azul,Hermanos Paz,24.0,38.0,94.0,251.0,23.0
+Asfalto Salvaje,Los Voltio,70.0,40.0,17.0,317.0,80.0
+Eco Total,Sierra,67.0,41.0,30.0,261.0,76.0
+Acero Azul,Reina Mota,69.0,33.0,36.0,298.0,42.0
+Acero Eterno,Reina Mota,67.0,49.0,25.0,283.0,53.0
+Verano Infinito,La Conexión,87.0,94.0,0.0,183.0,71.0
+Domingo Total,Hermanos Paz,26.0,29.0,85.0,213.0,63.0
+Hogar en Vivo,Hermanos Paz,21.0,41.0,84.0,222.0,72.0
+Asfalto Salvaje,Sierra,69.0,46.0,30.0,250.0,79.0
+Verano Infinito,Mara Flow,80.0,94.0,10.0,182.0,81.0
+Trueno Total,Karma Eléctrico,69.0,50.0,45.0,266.0,65.0
+Raíz Eterno,Río Manso,23.0,31.0,85.0,227.0,71.0
+Circuito Infinito,Kraft B,92.0,56.0,4.0,421.0,21.0
+Circuito Infinito,Helix,95.0,62.0,1.0,360.0,38.0
+Lluvia Total,Clara Sol,27.0,36.0,99.0,244.0,60.0
+Ruta Infinito,Banda Norte,79.0,42.0,27.0,298.0,59.0
+Raíz Total,Hermanos Paz,25.0,38.0,86.0,212.0,28.0
+Vértigo Azul,Karma Eléctrico,69.0,37.0,37.0,320.0,69.0
+Despacio Infinito,Valen Acústico,27.0,30.0,81.0,219.0,49.0
+Niebla en Vivo,Hermanos Paz,30.0,40.0,77.0,231.0,47.0
+Cromo Infinito,Banda Norte,68.0,41.0,16.0,317.0,81.0
+Pulso Azul,Andrómeda Club,96.0,54.0,6.0,346.0,40.0
+Pulso Infinito,Helix,93.0,60.0,0.0,377.0,43.0
+Noche Infinito,Los del Sur,81.0,91.0,8.0,188.0,71.0
+Hogar Salvaje,Valen Acústico,27.0,39.0,90.0,228.0,39.0
+Ritmo Infinito,Kiara B,90.0,90.0,11.0,193.0,80.0
+Noche Salvaje,Mara Flow,92.0,89.0,8.0,163.0,79.0
+Fase 2.0,Helix,91.0,56.0,0.0,332.0,27.0
+Niebla Eterno,Río Manso,23.0,36.0,76.0,230.0,39.0
+Noche de Noche,La Conexión,82.0,95.0,10.0,198.0,74.0
+Baila Azul,DJ Pampa,88.0,87.0,8.0,188.0,87.0
+Ruta en Vivo,Sierra,66.0,41.0,26.0,328.0,71.0
+Cromo Azul,Banda Norte,72.0,33.0,15.0,287.0,78.0
+Pulso Eterno,Andrómeda Club,93.0,47.0,5.0,388.0,51.0
+Órbita 2.0,Sistema 9,91.0,60.0,2.0,399.0,26.0
+Eco en Vivo,Karma Eléctrico,63.0,52.0,22.0,305.0,61.0
+Calor Salvaje,DJ Pampa,87.0,85.0,14.0,174.0,77.0
+Circuito Total,Kraft B,91.0,58.0,2.0,335.0,33.0
+Vértigo 2.0,Reina Mota,77.0,37.0,21.0,255.0,49.0
+Órbita Azul,Sistema 9,94.0,59.0,7.0,397.0,23.0
+Domingo Eterno,Hermanos Paz,34.0,21.0,78.0,250.0,57.0
+Asfalto Azul,Banda Norte,75.0,36.0,25.0,290.0,58.0
+Lluvia Salvaje,El Faro,27.0,33.0,81.0,239.0,33.0
+Acero en Vivo,Reina Mota,81.0,48.0,15.0,346.0,80.0
+Noche en Vivo,DJ Pampa,88.0,96.0,8.0,193.0,73.0
+Domingo de Noche,Río Manso,30.0,21.0,76.0,224.0,51.0
+Asfalto Salvaje,Karma Eléctrico,74.0,51.0,23.0,317.0,51.0
+Circuito en Vivo,Sistema 9,95.0,59.0,3.0,353.0,32.0
+Fase Salvaje,Kraft B,100.0,66.0,1.0,357.0,46.0
+Fiesta Infinito,La Conexión,83.0,93.0,5.0,186.0,85.0
+Domingo de Noche,Hermanos Paz,35.0,33.0,83.0,261.0,31.0
+Pulso de Noche,Sistema 9,88.0,55.0,1.0,368.0,45.0
+Noche en Vivo,Los del Sur,74.0,87.0,12.0,184.0,63.0
+Calor de Noche,DJ Pampa,79.0,91.0,13.0,198.0,85.0
+Vector Total,Sistema 9,96.0,57.0,4.0,370.0,25.0
+Noche Eterno,DJ Pampa,87.0,92.0,2.0,171.0,80.0
+Fase Salvaje,Nébula,93.0,62.0,5.0,333.0,38.0
+Hogar Azul,Hermanos Paz,28.0,44.0,90.0,215.0,46.0
+Trueno Eterno,Los Voltio,66.0,38.0,32.0,345.0,74.0
+Café en Vivo,Hermanos Paz,23.0,34.0,88.0,204.0,45.0
+Baila Infinito,Kiara B,84.0,94.0,10.0,226.0,82.0
+Baila de Noche,Mara Flow,88.0,90.0,9.0,170.0,65.0
+Verano de Noche,Los del Sur,83.0,87.0,1.0,175.0,87.0
+Noche Salvaje,Kiara B,85.0,89.0,7.0,172.0,72.0
+Circuito Azul,Kraft B,96.0,61.0,2.0,417.0,52.0
+Vértigo Eterno,Sierra,75.0,29.0,30.0,284.0,54.0
+Fase Total,Nébula,97.0,45.0,2.0,369.0,39.0
+Madera de Noche,Valen Acústico,17.0,28.0,73.0,240.0,48.0
+Motor Azul,Los Voltio,72.0,43.0,35.0,279.0,72.0
+Baila de Noche,DJ Pampa,84.0,90.0,12.0,204.0,79.0
+Neón Total,Helix,93.0,54.0,3.0,359.0,50.0
+Fuego en Vivo,Mara Flow,80.0,92.0,6.0,176.0,77.0
+Café Azul,Clara Sol,31.0,53.0,79.0,220.0,39.0
+Luna Azul,Mara Flow,77.0,82.0,12.0,191.0,88.0
+Prisma Infinito,Sistema 9,95.0,63.0,3.0,349.0,23.0
+Noche Salvaje,Los del Sur,90.0,89.0,7.0,212.0,74.0
+Trueno Azul,Sierra,76.0,48.0,27.0,296.0,62.0
+Noche Infinito,DJ Pampa,85.0,84.0,14.0,178.0,79.0
+Ruta de Noche,Banda Norte,71.0,36.0,32.0,243.0,63.0
+Baila Azul,Mara Flow,87.0,89.0,1.0,192.0,79.0
+Café Total,Clara Sol,10.0,29.0,73.0,231.0,58.0
+Despacio Salvaje,Valen Acústico,20.0,31.0,76.0,233.0,60.0
+Vector de Noche,Andrómeda Club,93.0,57.0,5.0,380.0,27.0
+Cromo Azul,Reina Mota,69.0,37.0,33.0,217.0,58.0
+Asfalto en Vivo,Banda Norte,68.0,46.0,28.0,249.0,69.0
+Fuego 2.0,La Conexión,74.0,84.0,8.0,203.0,80.0
+Eco Infinito,Banda Norte,70.0,35.0,28.0,262.0,58.0
+Baila en Vivo,La Conexión,75.0,88.0,6.0,178.0,85.0
+Baila 2.0,Kiara B,87.0,88.0,11.0,205.0,57.0
+Madera Salvaje,Hermanos Paz,22.0,40.0,88.0,226.0,40.0
+Circuito Salvaje,Andrómeda Club,90.0,59.0,0.0,367.0,55.0
+Fase Infinito,Sistema 9,87.0,63.0,3.0,363.0,30.0
+Acero 2.0,Reina Mota,66.0,49.0,25.0,282.0,50.0
+Órbita de Noche,Kraft B,94.0,51.0,4.0,420.0,32.0
+Raíz Salvaje,El Faro,25.0,43.0,87.0,265.0,45.0
+Vértigo 2.0,Banda Norte,68.0,45.0,46.0,266.0,71.0
+Noche 2.0,La Conexión,86.0,84.0,7.0,175.0,75.0
+Salto Salvaje,Andrómeda Club,95.0,61.0,4.0,324.0,30.0
+Café de Noche,Río Manso,29.0,32.0,80.0,206.0,51.0
+Lluvia Total,Valen Acústico,29.0,32.0,89.0,240.0,27.0
+Raíz Eterno,Valen Acústico,22.0,36.0,86.0,209.0,61.0
+Ruta Infinito,Sierra,78.0,39.0,21.0,283.0,74.0
+Cromo de Noche,Banda Norte,74.0,41.0,21.0,251.0,62.0
+Verano de Noche,La Conexión,83.0,88.0,10.0,169.0,81.0
+Trueno Eterno,Karma Eléctrico,72.0,34.0,14.0,279.0,56.0
+Luna Eterno,Kiara B,84.0,99.0,7.0,172.0,69.0
+Hogar 2.0,El Faro,37.0,35.0,91.0,221.0,37.0
+Madera en Vivo,Valen Acústico,16.0,49.0,91.0,232.0,59.0
+Motor 2.0,Sierra,70.0,48.0,25.0,237.0,93.0
+Fase de Noche,Helix,96.0,63.0,5.0,339.0,41.0
+Fiesta en Vivo,Mara Flow,87.0,94.0,11.0,167.0,76.0
+Órbita Eterno,Nébula,95.0,63.0,0.0,364.0,22.0
+Salto en Vivo,Helix,90.0,53.0,2.0,323.0,44.0
+Órbita Eterno,Nébula,99.0,58.0,4.0,373.0,29.0
+Hogar Total,Valen Acústico,24.0,22.0,100.0,249.0,58.0
+Lluvia Eterno,Clara Sol,31.0,48.0,74.0,224.0,46.0
+Salto Salvaje,Sistema 9,94.0,50.0,1.0,341.0,36.0
+Calor Total,DJ Pampa,85.0,96.0,7.0,193.0,89.0
+Eco en Vivo,Reina Mota,85.0,42.0,31.0,273.0,65.0
+Vértigo de Noche,Reina Mota,58.0,47.0,21.0,271.0,58.0
+Café Total,Clara Sol,28.0,35.0,87.0,249.0,59.0
+Pulso Azul,Nébula,95.0,46.0,5.0,379.0,46.0
+Noche Azul,La Conexión,83.0,93.0,7.0,196.0,74.0
+Salto Salvaje,Kraft B,91.0,59.0,2.0,410.0,30.0
+Madera de Noche,Hermanos Paz,29.0,30.0,75.0,215.0,41.0
+Trueno Azul,Reina Mota,65.0,41.0,21.0,299.0,34.0
+Ruta Total,Karma Eléctrico,56.0,44.0,17.0,323.0,63.0
+Motor Infinito,Banda Norte,70.0,44.0,29.0,254.0,53.0
+Pulso Total,Sistema 9,97.0,59.0,3.0,353.0,39.0
+Ruta de Noche,Reina Mota,66.0,49.0,28.0,291.0,73.0
+Fiesta de Noche,La Conexión,82.0,93.0,4.0,185.0,68.0
+Vértigo Salvaje,Banda Norte,78.0,44.0,19.0,244.0,64.0
+Luna Eterno,Los del Sur,89.0,94.0,7.0,204.0,80.0
+Prisma Infinito,Sistema 9,94.0,53.0,2.0,306.0,45.0
+Eco Azul,Banda Norte,63.0,42.0,21.0,227.0,70.0
+Luna Salvaje,La Conexión,80.0,91.0,6.0,179.0,80.0
+Fiesta en Vivo,DJ Pampa,84.0,96.0,13.0,163.0,70.0
+Ritmo Eterno,Kiara B,85.0,88.0,8.0,188.0,82.0
+Madera Azul,Valen Acústico,15.0,33.0,89.0,248.0,54.0
+Eco Infinito,Sierra,71.0,50.0,32.0,244.0,49.0
+Ritmo Infinito,La Conexión,86.0,89.0,5.0,198.0,85.0
+Café Eterno,Clara Sol,24.0,32.0,79.0,234.0,62.0
+Prisma 2.0,Nébula,91.0,64.0,5.0,370.0,28.0
+Vértigo Azul,Sierra,66.0,39.0,38.0,286.0,56.0
+Asfalto Eterno,Reina Mota,56.0,42.0,16.0,325.0,61.0
+Niebla Azul,El Faro,32.0,37.0,86.0,215.0,49.0
+Ruta en Vivo,Sierra,72.0,48.0,27.0,319.0,67.0
+Niebla Azul,Valen Acústico,22.0,37.0,88.0,246.0,25.0
+Verano en Vivo,Mara Flow,88.0,85.0,5.0,193.0,68.0
+Motor Salvaje,Reina Mota,71.0,39.0,20.0,319.0,83.0
+Salto Total,Helix,94.0,63.0,5.0,388.0,49.0
+Vector en Vivo,Helix,94.0,61.0,7.0,357.0,45.0
+Raíz Total,Clara Sol,24.0,23.0,86.0,226.0,54.0
+Vértigo Salvaje,Sierra,71.0,43.0,28.0,288.0,66.0
+Hogar de Noche,Río Manso,31.0,46.0,94.0,190.0,55.0
+Madera Eterno,Río Manso,24.0,29.0,88.0,223.0,56.0
+Calor Salvaje,DJ Pampa,91.0,88.0,5.0,177.0,78.0
+Fase Eterno,Sistema 9,93.0,59.0,7.0,358.0,64.0
+Circuito Salvaje,Kraft B,97.0,61.0,3.0,419.0,48.0
+Cromo 2.0,Karma Eléctrico,72.0,43.0,24.0,263.0,64.0
+Lluvia Infinito,Hermanos Paz,35.0,33.0,83.0,182.0,47.0
+Domingo Azul,Hermanos Paz,21.0,34.0,83.0,229.0,47.0
+Cromo Infinito,Sierra,65.0,39.0,31.0,294.0,52.0
+Motor en Vivo,Reina Mota,65.0,43.0,17.0,210.0,64.0
+Verano en Vivo,Los del Sur,82.0,95.0,4.0,205.0,74.0
+Madera Infinito,Hermanos Paz,27.0,42.0,78.0,238.0,62.0
+Ritmo 2.0,Los del Sur,81.0,90.0,0.0,189.0,74.0
+Prisma Eterno,Andrómeda Club,97.0,58.0,3.0,391.0,16.0
+Circuito Eterno,Helix,91.0,57.0,2.0,352.0,24.0
+Fiesta Total,DJ Pampa,91.0,91.0,9.0,197.0,88.0
+Domingo de Noche,Valen Acústico,28.0,49.0,82.0,214.0,61.0
+Luna Salvaje,La Conexión,81.0,87.0,13.0,201.0,87.0
+Luna Salvaje,DJ Pampa,86.0,95.0,8.0,209.0,80.0
+Circuito de Noche,Nébula,95.0,54.0,4.0,363.0,29.0
+Vértigo Eterno,Sierra,63.0,41.0,32.0,293.0,78.0
+Asfalto Infinito,Banda Norte,84.0,40.0,27.0,272.0,55.0
+Madera Infinito,Hermanos Paz,29.0,28.0,76.0,243.0,48.0
+Verano en Vivo,Mara Flow,81.0,98.0,3.0,174.0,69.0
+Lluvia Infinito,El Faro,31.0,30.0,85.0,226.0,47.0
+Cromo Eterno,Los Voltio,75.0,47.0,37.0,312.0,77.0
+Luna de Noche,Los del Sur,82.0,89.0,6.0,216.0,74.0
+Calor Infinito,Los del Sur,85.0,93.0,4.0,187.0,72.0
+Madera Infinito,El Faro,27.0,39.0,84.0,253.0,51.0
+Motor en Vivo,Banda Norte,69.0,37.0,27.0,286.0,71.0
+Fiesta Infinito,Los del Sur,79.0,83.0,9.0,187.0,71.0
+Fase Azul,Kraft B,95.0,57.0,5.0,368.0,33.0
+Ritmo Infinito,DJ Pampa,81.0,92.0,4.0,211.0,85.0
+Domingo Infinito,Hermanos Paz,21.0,43.0,83.0,216.0,63.0
+Cromo Salvaje,Karma Eléctrico,69.0,42.0,22.0,321.0,85.0
+Motor Eterno,Sierra,67.0,53.0,37.0,316.0,68.0
+Salto en Vivo,Nébula,92.0,48.0,1.0,335.0,39.0
+Baila Azul,La Conexión,87.0,97.0,8.0,205.0,81.0
+Baila Eterno,DJ Pampa,89.0,88.0,3.0,166.0,83.0
+Verano de Noche,DJ Pampa,78.0,86.0,2.0,195.0,69.0
+Fase 2.0,Nébula,94.0,63.0,6.0,402.0,13.0
+Cromo 2.0,Los Voltio,63.0,40.0,30.0,269.0,58.0
+Pulso Infinito,Andrómeda Club,95.0,50.0,4.0,343.0,32.0
+Vector Total,Sistema 9,92.0,52.0,2.0,351.0,54.0
+Pulso Salvaje,Andrómeda Club,93.0,68.0,5.0,331.0,38.0
+Madera Eterno,El Faro,28.0,37.0,78.0,248.0,77.0
+Fiesta Azul,Kiara B,76.0,90.0,10.0,222.0,72.0
+Raíz 2.0,Valen Acústico,28.0,32.0,84.0,271.0,55.0
+Acero Total,Sierra,64.0,39.0,17.0,339.0,50.0
+Lluvia 2.0,Hermanos Paz,26.0,29.0,83.0,215.0,40.0
+Noche Infinito,La Conexión,82.0,94.0,7.0,201.0,79.0
+Pulso en Vivo,Andrómeda Club,89.0,52.0,3.0,357.0,26.0
+Baila Infinito,Kiara B,78.0,90.0,7.0,170.0,91.0
+Acero Eterno,Karma Eléctrico,77.0,35.0,22.0,311.0,63.0
+Madera de Noche,Hermanos Paz,30.0,49.0,85.0,211.0,69.0
+Trueno de Noche,Reina Mota,65.0,37.0,16.0,262.0,96.0
+Despacio Infinito,El Faro,16.0,34.0,72.0,216.0,47.0
+Trueno Azul,Banda Norte,73.0,43.0,24.0,287.0,62.0
+Madera Salvaje,Hermanos Paz,23.0,31.0,88.0,275.0,70.0
+Órbita en Vivo,Andrómeda Club,95.0,60.0,4.0,379.0,19.0
+Circuito Eterno,Sistema 9,93.0,62.0,0.0,358.0,39.0
+Niebla en Vivo,Hermanos Paz,27.0,40.0,81.0,229.0,56.0
+Calor Eterno,Mara Flow,78.0,94.0,14.0,174.0,79.0
+Acero de Noche,Banda Norte,57.0,42.0,25.0,320.0,66.0
+Trueno de Noche,Los Voltio,75.0,47.0,15.0,247.0,68.0
+Fase Eterno,Sistema 9,100.0,55.0,0.0,366.0,21.0
+Ritmo Infinito,DJ Pampa,82.0,96.0,9.0,177.0,95.0
+Circuito Infinito,Andrómeda Club,92.0,57.0,1.0,357.0,47.0
+Acero Infinito,Sierra,85.0,38.0,16.0,275.0,77.0
+Verano Total,Kiara B,82.0,95.0,8.0,188.0,79.0
+Circuito Eterno,Helix,94.0,51.0,3.0,316.0,54.0
+Niebla Infinito,El Faro,27.0,19.0,86.0,228.0,29.0
+Verano Eterno,Kiara B,81.0,91.0,9.0,172.0,72.0
+Noche Total,Kiara B,94.0,88.0,7.0,189.0,86.0
+Verano Infinito,DJ Pampa,79.0,87.0,10.0,175.0,74.0
+Ritmo de Noche,Kiara B,82.0,94.0,8.0,211.0,73.0
+Trueno Salvaje,Sierra,66.0,43.0,36.0,296.0,52.0
+Órbita 2.0,Nébula,96.0,48.0,5.0,351.0,31.0
+Ritmo Azul,La Conexión,85.0,90.0,8.0,189.0,78.0
+Lluvia Total,Clara Sol,27.0,23.0,81.0,241.0,38.0
+Fase Azul,Kraft B,93.0,54.0,5.0,332.0,24.0
+Ruta de Noche,Reina Mota,74.0,45.0,31.0,225.0,62.0
+Eco Salvaje,Karma Eléctrico,65.0,41.0,23.0,294.0,53.0
+Hogar en Vivo,Clara Sol,26.0,27.0,82.0,249.0,54.0
+Neón Azul,Helix,91.0,57.0,5.0,346.0,40.0
+Eco 2.0,Sierra,75.0,38.0,35.0,237.0,61.0
+Noche Salvaje,Mara Flow,85.0,87.0,0.0,189.0,83.0
+Café en Vivo,El Faro,23.0,40.0,87.0,246.0,55.0
+Madera Total,Clara Sol,32.0,31.0,84.0,243.0,53.0
+Baila Azul,DJ Pampa,82.0,91.0,5.0,189.0,81.0
+Domingo Salvaje,Hermanos Paz,30.0,34.0,79.0,244.0,38.0
+Lluvia en Vivo,Clara Sol,24.0,45.0,80.0,214.0,33.0
+Niebla 2.0,Clara Sol,16.0,25.0,82.0,203.0,62.0
+Prisma de Noche,Sistema 9,93.0,68.0,4.0,386.0,49.0
+Vector Infinito,Nébula,92.0,53.0,4.0,383.0,24.0
+Niebla Salvaje,Río Manso,31.0,33.0,82.0,249.0,57.0
+Raíz en Vivo,Hermanos Paz,21.0,48.0,92.0,227.0,62.0
+Órbita 2.0,Nébula,90.0,65.0,1.0,353.0,29.0
+Raíz Infinito,El Faro,17.0,40.0,89.0,242.0,47.0
+Acero Total,Los Voltio,70.0,46.0,35.0,276.0,58.0
+Madera Infinito,Río Manso,31.0,36.0,82.0,227.0,62.0
+Calor 2.0,La Conexión,83.0,91.0,8.0,200.0,77.0
+Asfalto 2.0,Banda Norte,68.0,45.0,20.0,264.0,69.0
+Baila Total,Kiara B,84.0,91.0,9.0,180.0,80.0
+Luna Salvaje,La Conexión,83.0,90.0,6.0,206.0,91.0
+Fase en Vivo,Nébula,94.0,56.0,3.0,350.0,37.0
+Eco Infinito,Los Voltio,62.0,46.0,13.0,264.0,79.0
+Órbita Infinito,Kraft B,94.0,60.0,1.0,369.0,36.0
+Cromo Total,Karma Eléctrico,76.0,27.0,40.0,284.0,62.0
+Baila Azul,La Conexión,80.0,86.0,4.0,195.0,72.0
+Fase Infinito,Andrómeda Club,96.0,55.0,4.0,388.0,43.0
+Motor Salvaje,Sierra,74.0,49.0,24.0,292.0,62.0
+Ruta 2.0,Banda Norte,72.0,50.0,26.0,300.0,67.0
+Niebla en Vivo,Clara Sol,26.0,51.0,84.0,223.0,58.0
+Café Total,Hermanos Paz,35.0,38.0,81.0,206.0,50.0
+Madera Salvaje,Clara Sol,26.0,43.0,85.0,238.0,45.0
+Salto Azul,Helix,93.0,55.0,1.0,351.0,51.0
+Neón Azul,Kraft B,91.0,63.0,6.0,356.0,38.0
+Luna en Vivo,Los del Sur,86.0,91.0,4.0,202.0,76.0
+Noche 2.0,Los del Sur,85.0,91.0,9.0,217.0,80.0
+Motor Eterno,Karma Eléctrico,70.0,33.0,28.0,292.0,71.0
+Calor en Vivo,Mara Flow,85.0,88.0,12.0,179.0,72.0
+Despacio de Noche,Clara Sol,16.0,35.0,84.0,232.0,26.0
+Vector Infinito,Helix,91.0,56.0,2.0,344.0,28.0
+Domingo 2.0,Hermanos Paz,27.0,33.0,85.0,213.0,46.0
+Baila Total,Mara Flow,83.0,94.0,11.0,183.0,71.0
+Fiesta Eterno,Kiara B,83.0,90.0,6.0,185.0,72.0
+Niebla Total,Hermanos Paz,16.0,28.0,85.0,225.0,49.0
+Fase en Vivo,Sistema 9,96.0,55.0,4.0,386.0,37.0
+Cromo de Noche,Karma Eléctrico,81.0,31.0,28.0,304.0,72.0
+Vector Total,Helix,93.0,54.0,3.0,356.0,29.0
+Motor en Vivo,Sierra,66.0,49.0,17.0,256.0,80.0
+Madera de Noche,El Faro,28.0,43.0,78.0,215.0,38.0
+Fuego Azul,Los del Sur,80.0,88.0,8.0,191.0,74.0
+Pulso en Vivo,Kraft B,92.0,53.0,1.0,395.0,31.0
+Calor Total,Los del Sur,82.0,91.0,8.0,173.0,92.0
+Luna de Noche,Mara Flow,78.0,94.0,2.0,177.0,66.0
+Trueno Azul,Banda Norte,75.0,32.0,28.0,272.0,57.0
+Neón Total,Sistema 9,90.0,61.0,4.0,355.0,41.0
+Despacio Azul,Río Manso,26.0,33.0,87.0,227.0,57.0
+Trueno 2.0,Reina Mota,66.0,40.0,26.0,299.0,53.0
+Cromo de Noche,Banda Norte,57.0,39.0,33.0,225.0,71.0
+Circuito Azul,Andrómeda Club,95.0,52.0,1.0,359.0,35.0
+Hogar 2.0,Clara Sol,20.0,40.0,95.0,202.0,46.0
+Neón Infinito,Kraft B,94.0,53.0,2.0,409.0,35.0
+Vértigo de Noche,Reina Mota,77.0,33.0,29.0,256.0,62.0
+Motor Azul,Los Voltio,77.0,40.0,30.0,251.0,53.0
+Verano 2.0,La Conexión,86.0,91.0,9.0,194.0,79.0
+Vértigo Eterno,Karma Eléctrico,70.0,46.0,32.0,295.0,50.0
+Fiesta Total,DJ Pampa,74.0,89.0,14.0,195.0,79.0
+Asfalto en Vivo,Reina Mota,65.0,41.0,22.0,277.0,68.0
+Calor Infinito,Kiara B,82.0,93.0,6.0,185.0,82.0
+Vector en Vivo,Sistema 9,92.0,55.0,1.0,345.0,36.0
+Niebla Total,Valen Acústico,25.0,36.0,90.0,203.0,49.0
+Trueno en Vivo,Los Voltio,82.0,39.0,20.0,261.0,53.0
+Vector 2.0,Nébula,93.0,52.0,2.0,353.0,29.0
+Órbita Azul,Kraft B,88.0,50.0,5.0,348.0,32.0
+Madera Infinito,El Faro,24.0,24.0,85.0,199.0,52.0
+Vector Azul,Sistema 9,94.0,52.0,1.0,348.0,37.0
+Hogar Total,El Faro,21.0,30.0,89.0,267.0,39.0
+Eco Azul,Karma Eléctrico,72.0,37.0,26.0,249.0,61.0
+Fiesta de Noche,DJ Pampa,81.0,95.0,8.0,202.0,95.0
+Hogar Infinito,Río Manso,27.0,31.0,83.0,239.0,49.0
+Prisma Azul,Andrómeda Club,91.0,61.0,2.0,411.0,47.0
+Cromo Eterno,Banda Norte,66.0,46.0,29.0,260.0,71.0
+Madera Infinito,Río Manso,25.0,29.0,79.0,197.0,34.0
+Acero Infinito,Reina Mota,71.0,50.0,27.0,276.0,82.0
+Despacio Total,Valen Acústico,24.0,29.0,83.0,202.0,53.0
+Domingo 2.0,Hermanos Paz,30.0,44.0,81.0,226.0,37.0
+Raíz en Vivo,Clara Sol,25.0,24.0,84.0,225.0,47.0
+Trueno Eterno,Banda Norte,70.0,54.0,18.0,282.0,63.0
+Fase Salvaje,Nébula,98.0,50.0,3.0,340.0,25.0
+Domingo Eterno,Valen Acústico,33.0,31.0,80.0,212.0,46.0
+Luna Eterno,Mara Flow,91.0,89.0,4.0,199.0,95.0
+Motor en Vivo,Reina Mota,76.0,35.0,39.0,272.0,74.0
+Fuego Azul,Los del Sur,84.0,92.0,4.0,208.0,83.0
+Asfalto Salvaje,Reina Mota,71.0,49.0,27.0,255.0,76.0
+Vértigo 2.0,Sierra,64.0,35.0,24.0,310.0,85.0
+Luna en Vivo,La Conexión,87.0,91.0,8.0,173.0,90.0
+Noche en Vivo,Kiara B,84.0,94.0,7.0,186.0,75.0
+Pulso Eterno,Sistema 9,100.0,54.0,2.0,358.0,40.0
+Luna 2.0,DJ Pampa,77.0,92.0,6.0,166.0,77.0
+Lluvia 2.0,El Faro,20.0,47.0,88.0,256.0,42.0
+Fase Salvaje,Sistema 9,98.0,48.0,1.0,341.0,26.0
+Ruta Eterno,Karma Eléctrico,66.0,37.0,22.0,235.0,59.0
+Luna en Vivo,La Conexión,78.0,89.0,10.0,185.0,81.0
+Vector Salvaje,Kraft B,92.0,60.0,3.0,416.0,32.0
+Salto Azul,Helix,96.0,52.0,4.0,401.0,42.0
+Ritmo Azul,Kiara B,82.0,94.0,12.0,185.0,71.0
+Ritmo 2.0,La Conexión,85.0,85.0,8.0,187.0,80.0
+Prisma Salvaje,Andrómeda Club,93.0,56.0,1.0,357.0,39.0
+Despacio 2.0,Valen Acústico,25.0,43.0,81.0,216.0,38.0
+Pulso Salvaje,Sistema 9,98.0,63.0,1.0,399.0,32.0
+Ritmo Eterno,Los del Sur,95.0,83.0,7.0,186.0,77.0
+Asfalto en Vivo,Banda Norte,85.0,56.0,29.0,246.0,42.0
+Ritmo Salvaje,Kiara B,90.0,89.0,14.0,204.0,65.0
+Noche de Noche,DJ Pampa,83.0,97.0,13.0,194.0,68.0
+Despacio Infinito,Hermanos Paz,24.0,37.0,79.0,218.0,51.0
+Hogar Eterno,Hermanos Paz,8.0,33.0,95.0,240.0,23.0

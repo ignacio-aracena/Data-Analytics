@@ -5,3 +5,13 @@ __pycache__/
 
 # Config local de Claude Code — paths y permisos personales, no compartir
 .claude/settings.local.json
+
+# Lista de alumnos del bolillero — datos personales, no se commitea
+alumnos.csv
+alumnos.xlsx
+
+# Docs internos de diseño (specs/planes de Claude) — no van al repo
+docs/
+
+# Resuelto del profesor — se publica DESPUÉS de la clase (ese día, borrar esta línea y hacer git add)
+Clase 11 - Clustering/practica11-resuelto.ipynb
