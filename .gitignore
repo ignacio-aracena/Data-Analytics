@@ -13,8 +13,8 @@ alumnos.xlsx
 # Docs internos de diseño (specs/planes de Claude) — no van al repo
 docs/
 
-# Resuelto del profesor — se publica DESPUÉS de la clase (ese día, borrar esta línea y hacer git add)
-Clase 11 - Clustering/practica11-resuelto.ipynb
+# Notebook de cierre — se usó para presentar en clase; ya no se publica
+Clase 11 - Clustering/practica11-cierre-clase.ipynb
 
 # Corrección TP11 — notas, devoluciones, comparativas y guion (material interno, NO se comparte)
 Clase 11 - Clustering/Correccion/
