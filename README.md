@@ -80,7 +80,7 @@ Evaluación: 20% quiz semanal + 20% conceptual + 30% Parcial 1 + 30% Parcial 2.
 ## Equipo docente
 
 - **Pablo Sciolla** — Profesor titular (clases teóricas / magistrales).
-- **Ignacio Aracena** y **Juan Costa** — Tutores (este repositorio).
+- **Juan Costa** — Tutor (este repositorio).
 
-**Analítica de Datos** · Negocios Digitales · Otoño 2026
+**Analítica de Datos** · Negocios Digitales ·
 Universidad de San Andrés
